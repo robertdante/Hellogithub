@@ -36,3 +36,23 @@ Underline 2
 
 # Imagenes
 ![Logo Github](https://www.flaticon.es/svg/vstatic/svg/25/25231.svg?token=exp=1614156969~hmac=1b6833603afb00f8f1de9ac2b455d6cc)
+
+# Code Snippets
+Codigo en JSON
+```JSON
+[
+    {
+        "title": "apples",
+        "count": [12000, 2000],
+        "description": {"text": "..."}
+    }
+]
+```
+
+# Tablas
+
+| Nombre | Apellido | Documento |
+| ------ | -------- | --------- |
+| Roberto | Gil    | 76021337  |
+| Paco   | Plaza   | 569856 |
+|Antonio | Gil     | 45879632 | 

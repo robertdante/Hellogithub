@@ -55,4 +55,33 @@ Codigo en JSON
 | ------ | -------- | --------- |
 | Roberto | Gil    | 76021337  |
 | Paco   | Plaza   | 569856 |
-|Antonio | Gil     | 45879632 | 
+|Antonio | Gil     | 45879632 |
+
+
+# Citas
+
+Esto es un texto referente a una cita que pondremos debajo:
+> Esto es una cita
+
+Esto es otro texto no relacionado con la cita anterior:
+> Esto es otra cita
+
+# Lineas divisorias
+
+Esto es un texto que será divido por guiones
+
+---
+Esto es otro texto dividido por asteriscos
+
+***
+Esto es otro texto dividido por guiones bajos.
+
+___
+
+# Saltos de linea
+
+Esto es nuestro primer parrafo.
+
+Esto es nuestro segundo parrafo.
+
+Esto es un tercer parrafo.
